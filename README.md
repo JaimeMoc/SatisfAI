@@ -1,5 +1,9 @@
 # SatisfAI 
 
+<p align="center">
+  <img src="https://github.com/JaimeMoc/SatisfAI/blob/c467dd634a286e42ac75b0a9a523eefb60ceab80/Logo.jpg" width="200">
+</p>
+
 ## Descripción general. 
 
 SatisfAI es una plataforma de retroalimentación innovadora diseñada para mejorar la satisfacción, el compromiso y la retención de los empleados. Empleando algoritmos avanzados de IA, satisfAI recopila y analiza la retroalimentación de los empleados, proporcionando información valiosa para las organizaciones. 
